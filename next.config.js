@@ -6,6 +6,8 @@ const nextConfig = {
       butterutil: false,
       "utf-8-validate": false,
     };
+
+    return config;
   },
 };
 
